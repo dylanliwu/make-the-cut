@@ -1,8 +1,8 @@
 https://github.com/user-attachments/assets/0d13e615-b816-4c2d-91a0-e4354bda79d3
 
-# Make the Cut
+# Make the Cut 🧮
 
-Live at [makethecut.ca](https://makethecut.ca)
+🔗 Live at [makethecut.ca](https://makethecut.ca)
 
 At McMaster, first year engineering is general and your GPA decides which stream you get into. McMaster doesn't release the cutoffs, so most people are just guessing.
 
