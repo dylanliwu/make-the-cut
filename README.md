@@ -1,7 +1,5 @@
 https://github.com/user-attachments/assets/0d13e615-b816-4c2d-91a0-e4354bda79d3
 
-PASTE_YOUR_EXISTING_VIDEO_LINE_HERE
-
 # Make the Cut
 
 Live at [makethecut.ca](https://makethecut.ca)
